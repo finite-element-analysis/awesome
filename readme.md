@@ -23,6 +23,7 @@ $$
 ## Continuua
 
 Platforms centered around non-linear problems with the form:
+
 $$
 \nabla \boldsymbol{\sigma} = \boldsymbol{f}
 $$
