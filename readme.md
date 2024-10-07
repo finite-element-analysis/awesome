@@ -11,18 +11,18 @@
 
 ## Linear
 
+Platforms centered around linear problems with the form:
+
 $$
 \mathbb{L} \boldsymbol{u} = \boldsymbol{f}
 $$
 
-About this section. Optional. Keep this short and focus on the list.
-
 - [List item](http://example.com)
 - [List item](http://example.com)
-
 
 ## Continuua
 
+Platforms centered around non-linear problems with the form:
 $$
 \nabla \boldsymbol{\sigma} = \boldsymbol{f}
 $$
