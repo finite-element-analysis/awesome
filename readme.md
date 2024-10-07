@@ -1,6 +1,11 @@
 # finite-element-analysis [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A currated list of open-source finite element analysis tools
+> A currated list of open-source tools that facilitate using Galerkin techniques
+> like finite element analysis to solve partial differential equations. 
+
+This list is designed to complement the excellent
+[finite-element-methods](https://github.com/tkoyama010/awesome-finite-elements) list,
+which emphasizes applications to structural problems as well as pre- and post-processing.
 
 
 ## Contents
@@ -28,7 +33,7 @@ $$
 \nabla \boldsymbol{\sigma} = \boldsymbol{f}
 $$
 
-- [List item](http://example.com)
+- [felupe](https://github.com/adtzlr/felupe)
 
 
 ## Conduction
