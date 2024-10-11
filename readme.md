@@ -10,8 +10,9 @@ which emphasizes applications to structural problems as well as pre- and post-pr
 
 ## Contents
 
-- [General](#General)
-- [Integrations](#integrations)
+- [Linear](#Linear)
+- [Continuua](#Continuua)
+- [Conduction](#conduction)
 
 
 ## Linear
@@ -34,6 +35,7 @@ $$
 $$
 
 - [felupe](https://github.com/adtzlr/felupe)
+- [OpenSees](https://github.com/OpenSees/OpenSees)
 
 
 ## Conduction
