@@ -31,7 +31,7 @@ $$
 Platforms centered around non-linear problems with the form:
 
 $$
-\nabla \boldsymbol{\sigma} = \boldsymbol{f}
+\mathrm{div}~ \boldsymbol{\sigma} = \boldsymbol{f}
 $$
 
 - [felupe](https://github.com/adtzlr/felupe)
