@@ -35,6 +35,7 @@ $$
 $$
 
 - [felupe](https://github.com/adtzlr/felupe)
+- [dolfinx](http://example.com)
 - [OpenSees](https://github.com/OpenSees/OpenSees)
 
 
@@ -44,7 +45,7 @@ $$
 \nabla u = f
 $$
 
-- [List item](http://example.com)
+- [dolfinx](http://example.com)
 
 
 
