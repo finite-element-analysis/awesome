@@ -34,9 +34,9 @@ $$
 \mathrm{div}~ \boldsymbol{\sigma} = \boldsymbol{f}
 $$
 
-- [felupe](https://github.com/adtzlr/felupe)
-- [dolfinx](http://example.com)
-- [xara](https://xara.so)
+- [felupe](https://github.com/adtzlr/felupe) ([GitHub](https://github.com/adtzlr/felupe))
+- [dolfinx](http://fenicsproject.org) ([GitHub](https://github.com/FEniCS/dolfinx))
+- [xara](https://xara.so) ([GitHub](https://github.com/peer-open-source/xara))
 
 
 ### Conduction
@@ -53,7 +53,7 @@ $$
 
 - [f3d](https://f3d.app/) - Cross-platform, fast, and minimalist 3D viewer with scientific visualization tools.
   (C++, BSD, [GitHub](https://github.com/f3d-app/f3d))
-- [veux](https://github.com/stairlab/veux) - Python library for building glTF representations of finite element models
+- [veux](https://veux.io) - Python library for building glTF representations of finite element models ([GitHub](https://github.com/stairlab/veux))
 - [Polyscope](https://polyscope.run/) - Viewer and user interface for 3D geometry processing.
   (C++, MIT, [GitHub](https://github.com/nmwsharp/polyscope))
 - [yt](https://yt-project.org/) - Toolkit for analysis and visualization of volumetric data.
